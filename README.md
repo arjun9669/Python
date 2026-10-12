@@ -47,5 +47,5 @@ Welcome to my Python project portfolio where I’ve tackled real-world assignmen
 ---
 
 ## 📫 Connect With Me
-I'm **Arjun**, a passionate data analyst in the making!  
+I'm **Arjun**, an AI Engineer!  
 📧 Reach out: [LinkedIn](https://linkedin.com/in/arjun-analytics)
